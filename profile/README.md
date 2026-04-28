@@ -22,7 +22,7 @@ The GIMP Editor offers Adobe Photoshop-like functionality while remaining comple
 ---
 
 ## Overview
-![gimp-editor-workspace-dashboard](https://sm.pcmag.com/pcmag_uk/photo/default/07dvxwbgbfmaof6elh4haw9-25_qs9e.png)
+![gimp-editor-workspace-dashboard](https://news-cdn.softpedia.com/images/news2/gimp-review-536719-8.png)
 
 ---
 
